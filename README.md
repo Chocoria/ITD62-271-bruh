@@ -5,5 +5,3 @@ hello world
 huh?
 
 hello
-
-hello
